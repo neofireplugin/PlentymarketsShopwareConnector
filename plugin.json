@@ -1,7 +1,7 @@
 {
 	"name"                	: "PlentymarketsShopwareConnector",
   	"marketplaceName"     	: {"de": "Shopware 6 Connector","en": "Shopware 6 Connector"},
- 	"namespace"           	: "ShopwarePlentymarketsConnector",
+ 	"namespace"           	: "PlentymarketsShopwareConnector",
 	"type"			: "service",
 	"version"           	: "1.0.1",
 	"pluginIcon"        	: "icon_plugin_xs.png",
