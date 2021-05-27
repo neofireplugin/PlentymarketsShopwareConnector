@@ -3,7 +3,7 @@
   	"marketplaceName"     	: {"de": "Shopware 6 Connector","en": "Shopware 6 Connector"},
  	"namespace"           	: "PlentymarketsShopwareConnector",
 	"type"			: "service",
-	"version"           	: "1.0.6",
+	"version"           	: "1.0.7",
 	"pluginIcon"        	: "icon_plugin_xs.png",
 	"price"             	: 1188.81,
 	"description"         	: "Die perfekte Schnittstelle zwischen Plentymarkets und Shopware 6. Es werden die Produkte, Varianten, Kataloge, Merkmale, Units, Lager und Bestellungen synchronisiert.",
