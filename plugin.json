@@ -3,6 +3,7 @@
   	"marketplaceName"     	: {"de": "Shopware 6 Connector","en": "Shopware 6 Connector"},
  	"namespace"           	: "PlentymarketsShopwareConnector",
 	"type"			: "service",
+	"email"			: "info@neofire.de",
 	"version"           	: "1.0.9",
 	"pluginIcon"        	: "icon_plugin_xs.png",
 	"price"             	: 1188.81,
@@ -16,5 +17,8 @@
 	"phone"               	: "+49 0571 40 41 733",
 	"webhookUrl"		: "https://www.neofire.de",
 	"license"		: "Proprietär",
-	"serviceProvider" 	: "ShopwarePlentymarketsConnector\\Providers\\SupportServiceProvider"
+	"serviceProvider" 	: "ShopwarePlentymarketsConnector\\Providers\\SupportServiceProvider",
+	"dependencies"		: {},
+	"isClosedSource"	: true,
+	"shortDescription"	: {"de": "Plugin für den Artikelexport zu clicksale","en": "Plugin to Export the Items to clicksale"}
 }
